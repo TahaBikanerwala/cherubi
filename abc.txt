@@ -1,0 +1,3 @@
+Stage File and unstage file - 1
+Staging and commit
+Staging and commit - 2
